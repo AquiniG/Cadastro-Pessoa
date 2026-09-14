@@ -1,0 +1,1 @@
+Cadastro de Pessoas - Projeto para prática de declaração de variáveis com diferentes tipos de dados, conversão de String para outros tipos, leitura de entrada readln(), exibição de dados println() e fluxo básico de Git.
